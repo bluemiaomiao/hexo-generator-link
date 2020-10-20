@@ -1,0 +1,12 @@
+{
+  "name": "hexo-generator-link",
+  "version": "1.0.0",
+  "description": "Link Generator Plugin For Hexo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bluemiaomiao",
+  "license": "MIT",
+  "repository": "https://github.com/bluemiaomiao/hexo-generator-link.git"
+}
